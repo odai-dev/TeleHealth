@@ -45,7 +45,10 @@ namespace TeleHealth
 
         private void loginBtn_Click(object sender, EventArgs e)
         {
-            
+            this.Hide();
+            Patient patient = new Patient();
+            patient.Show();
+
         }
     }
 }
