@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeleHealth", "TeleHealth\TeleHealth.csproj", "{884FA1F5-95FE-430E-9772-F8917C4CF1EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{884FA1F5-95FE-430E-9772-F8917C4CF1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{884FA1F5-95FE-430E-9772-F8917C4CF1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{884FA1F5-95FE-430E-9772-F8917C4CF1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{884FA1F5-95FE-430E-9772-F8917C4CF1EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9550004-22F4-4993-8A2A-F75BC8C70F6B}
+	EndGlobalSection
+EndGlobal
