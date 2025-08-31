@@ -11,7 +11,7 @@ namespace TeleHealth
 {
     internal class UIHelpers
     {
-        public static void SetPlaceholder(TextBox tb, string placeholder, bool isPassword = false)
+        public static void SetPlaceholder(TextBox tb , string placeholder, bool isPassword = false)
         {
             tb.Text = placeholder;
             tb.ForeColor = Color.Gray;
